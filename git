@@ -1,0 +1,5 @@
+$ mkdir -p ${HOME}/cpsc51500
+$ cd ${HOME}/ cpsc51500
+$ git clone git@github.com: lewis-cpsc51500-002/assign1-git tu2
+$ cd tu2
+$ TUTROOT=${PWD}
